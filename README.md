@@ -1,6 +1,6 @@
 # terumitt
 
-[![Twitter: terumitt_](https://img.shields.io/twitter/follow/terumitt_7101?style=social)](https://twitter.com/terumit_7101)
+[![Twitter: terumitt_](https://img.shields.io/twitter/follow/terumitt_7101?style=social)](https://twitter.com/terumitt_7101)
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fkmr59&theme=slateorange&show_icons=true&count_private=true" height="150px" />
